@@ -1,9 +1,9 @@
 // GitHub 저장소 설정
 const config = {
-    owner: 'cuteforearth', // GitHub 사용자명으로 변경
-    repo: 'cute_for_earth',  // 저장소 이름으로 변경
-    path: 'images',    // 이미지가 저장될 폴더
-    branch: 'main'     // 브랜치 이름
+    owner: 'cute4earth', // 정확한 GitHub 사용자명
+    repo: 'cute4earth',  // 정확한 저장소 이름
+    path: 'images',     // 이미지 폴더명
+    branch: 'main'      // 브랜치 이름
 };
 
 // 다국어 지원 - 언어 데이터
